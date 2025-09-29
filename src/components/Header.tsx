@@ -23,9 +23,9 @@ export default function Header() {
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2">
             <div className="w-8 h-8 bg-green-500 rounded-full flex items-center justify-center">
-              <span className="text-white font-bold text-sm">R</span>
+              <span className="text-white font-bold text-sm">D</span>
             </div>
-            <span className="font-bold text-xl">Riverside Tennis & Pickleball</span>
+            <span className="font-bold text-xl">Dale Tennis and Pickeball Club</span>
           </Link>
 
           {/* Desktop Navigation */}
