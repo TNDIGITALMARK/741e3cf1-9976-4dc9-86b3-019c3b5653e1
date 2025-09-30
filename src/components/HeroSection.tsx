@@ -23,7 +23,7 @@ export default function HeroSection() {
         </h1>
 
         <p className="text-xl md:text-2xl mb-8 max-w-2xl mx-auto leading-relaxed">
-          Join Riverside Tennis & Pickleball Club - where champions are made and friendships are forged.
+          Join Dale Tennis & Pickelball Club - where champions are made and friendships are forged.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
